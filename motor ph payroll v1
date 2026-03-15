@@ -1,5 +1,5 @@
 //For the grading i just  editied everyone's code into  one thing 
-
+// practice code 
        public static void main(String[] args) {
 
         double hourlyRate = 150.0;
